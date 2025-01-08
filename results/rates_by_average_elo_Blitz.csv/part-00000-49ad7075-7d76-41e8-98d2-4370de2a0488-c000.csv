@@ -1,0 +1,7 @@
+Average_elo_category,((sum(Black_blunders) + sum(White_blunders)) / sum(Total_moves) AS Blunder_rate),((sum(Black_mistakes) + sum(White_mistakes)) / sum(Total_moves) AS Mistake_rate),((sum(Black_inaccuracies) + sum(White_inaccuracies)) / sum(Total_moves) AS Inaccuracy_rate)
+"GMI, World Champions",0.031693932040945894,0.06570708783770073,0.07254995752921498
+Unknown,0.0941803689545419,0.10613079128046281,0.09007212660771799
+very good club player,0.04887804620076029,0.0904704925137431,0.08867127710531632
+good club player,0.059209309565370016,0.09738939316368422,0.09071043304537262
+occasional player,0.07456188806430178,0.10261925621477275,0.09034825839475968
+national and international level (IM),0.04073807529790546,0.08059761621333275,0.08302977900904948
